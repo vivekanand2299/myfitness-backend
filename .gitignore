@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Local Spring config (contains secrets)
+application-local.properties
+
